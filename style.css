@@ -10,7 +10,6 @@ html {
     font-size: 2rem;
     font-family: 'Roboto', sans-serif;
     text-rendering: optimizeLegibility;
-    overflow-x: hidden;
 }
 nav {
     position: relative;
@@ -49,7 +48,6 @@ nav ul li a:hover {
     float: left;
     width: auto;
     height: 3.3125rem;
-    overflow: hidden;
 }
 .central {
     background:  rgba(127, 71, 130, 0.6);
