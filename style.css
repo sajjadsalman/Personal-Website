@@ -34,7 +34,7 @@ nav li a {
 
 nav ul li a:hover {
     border-top: 0.125rem solid #ffb100;
-    padding-top: 10px;
+    padding-top: 2px;
     transition: 0.2s ease;
 }
 
